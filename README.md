@@ -36,23 +36,23 @@ I am an aspiring Data Analyst with hands-on experience in Advanced Excel, SQL, a
 
 <!-- GITHUB STATS -->
 ### 📊 Github Stats
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakm-ghub&show_icons=true&theme=tokyonight&bg_color=0d1117)
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakmghub&show_icons=true&theme=tokyonight&bg_color=0d1117)
 
 <!-- TOP LANGUAGES -->
 ### 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakm-ghub&layout=compact&theme=tokyonight&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakmghub&layout=compact&theme=tokyonight&bg_color=0d1117)
 
 <!-- STREAK STATS -->
 ### 🔥 Streak Stats
-![Streak Stats](https://streak-stats.demolab.com?user=krishnakm-ghub&theme=tokyonight-duo&background=0D1117)
+![Streak Stats](https://streak-stats.demolab.com?user=krishnakmghub&theme=tokyonight-duo&background=0D1117)
 
 <!-- ACTIVITY GRAPH -->
 ### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakm-ghub&theme=tokyo-night&bg_color=0d1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakmghub&theme=tokyo-night&bg_color=0d1117)
 
 <!-- TROPHY WALL -->
 ### 🏆 Trophy Wall
-![Trophy](https://github-profile-trophy.vercel.app/?username=krishnakm-ghub&theme=tokyonight&no-frame=true&no-bg=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=krishnakmghub&theme=tokyonight&no-frame=true&no-bg=true)
 
 <!-- WORK EXPERIENCE -->
 ### 💼 Work Experience
