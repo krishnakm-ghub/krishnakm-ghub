@@ -36,7 +36,7 @@ I am an aspiring Data Analyst with hands-on experience in Advanced Excel, SQL, a
 
 <!-- GITHUB STATS -->
 ### 📊 Github Stats
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakmghub&show_icons=true&theme=tokyonight&bg_color=0d1117)
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakm-ghub&show_icons=true&theme=tokyonight&bg_color=0d1117)
 
 <!-- TOP LANGUAGES -->
 ### 🌐 Top Languages
